@@ -60,6 +60,10 @@ div#movie_bgr div:nth-of-type(4){
     background:#000;
 }
 
+.card{
+    border-radius: 3px; 
+}
+
 @media only screen and (max-width: 750px) {
     #register{
         width:120px;
